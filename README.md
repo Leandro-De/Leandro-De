@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development
 - 📫 Contact me: contact@leandrocode.com
 - My Blog ⬇️ <div><a href="https://www.leandrocode.com/" target="_black">https://www.leandrocode.com</a></div>
-- My Portfolio ⬇️
+- My Portfolio ⬇️<div><a href="https://portfolioleandro.netlify.app/" target="_black">Portfolio</a></div>
 - Good knowledge ⬇️
 <div>
   <img align="center" alt="le-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
