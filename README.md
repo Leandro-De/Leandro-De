@@ -1,4 +1,4 @@
-### Hi! I'm Leandro Varela FullStack Development
+### Hi! I'm Leandro Varela Frontend Development
 
 - 🌱 I’m currently learning Web Development
 - 📫 Contact me: contact@leandrocode.com
