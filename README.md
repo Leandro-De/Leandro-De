@@ -1,8 +1,6 @@
 ### Hi! I'm Leandro Varela Frontend Development
 
 - 🌱 I’m currently learning Web Development
-- 📫 Contact me: contact@leandrocode.com
-- My Blog ⬇️ <div><a href="https://www.leandrocode.com/" target="_black">https://www.leandrocode.com</a></div>
 - My Portfolio ⬇️<div><a href="https://portfolioleandro.netlify.app/" target="_black">PortfolioLeandro.com</a></div>
 - Good knowledge ⬇️
 <div>
